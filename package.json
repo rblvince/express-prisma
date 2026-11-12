@@ -1,7 +1,7 @@
 {
   "name": "express-prisma",
   "version": "1.0.0",
-  "description": "Esercizi Boolean 31-33 - Express e Prisma con MySQL",
+  "description": "Esercizi Boolean 31-34 - Express e Prisma con MySQL",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
